@@ -73,7 +73,7 @@
 
 <h3><b> 📧 Contact</b></h3>
 <p>
-<a href="mailto:erst321@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
+<a href="mailto:gns3967@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp
 <a href="https://open.kakao.com/o/sNVt0knf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a> &nbsp
 </p>
 

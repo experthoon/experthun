@@ -1,4 +1,4 @@
-### want to be a backend developer 👋
+### want to be a backend developer 
 
 <!-- 자기소개 시작 -->
 <div>

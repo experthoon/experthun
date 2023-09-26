@@ -49,7 +49,7 @@
 <!-- - 링크드인: https://www.linkedin.com/in/moonhy7 -->
 - 포트폴리오: https://dusty-substance-304.notion.site/experthun-de24c73b95914efaba32e91c04e86e0b?pvs=4
 - 기술블로그: https://experthun.tistory.com/
-- 이메일: gns3967@naver.com
+
 
 <br>
 
